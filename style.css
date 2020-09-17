@@ -281,13 +281,13 @@ span {
 }
 
 @media (max-width:767.98px) {
+    .scroll {
+        display: none;
+    }
+
     .main-img {
         width: 60%;
         margin-top: 45px
-    }
-
-    .scroll {
-        display: none
     }
 
     .video-wrapp>iframe {
