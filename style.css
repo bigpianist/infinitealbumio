@@ -286,7 +286,8 @@ span {
     }
 
     .main-img {
-        width: 60%;
+        max-width: 401px;
+        max-height: auto;
         margin-top: 45px
     }
 
